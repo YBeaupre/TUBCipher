@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: TUBCipher Python Implementation
+type: software
+authors:
+  - given-names: 'Yannick '
+    family-names: Beaupré
+    email: yannickbeaupre@cmail.carleton.ca
+    affiliation: Carleton University
+repository-code: 'https://github.com/YBeaupre/TUBCipher.git'
